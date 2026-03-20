@@ -1,4 +1,3 @@
-# GT3-Shader
 # Shader Exercises — Bachelor Game Dev
 
 Collection of shader exercises completed during the
